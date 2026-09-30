@@ -1,0 +1,6 @@
+{
+  "name": "WiFiCam Pro",
+  "description": "Turns your phone into a low-latency Wi-Fi webcam for laptops and desktops, featuring real-time motion detection, end-to-end encryption, configurable audio/video streaming, and cloud storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
